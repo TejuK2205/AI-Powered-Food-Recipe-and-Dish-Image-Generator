@@ -98,6 +98,8 @@ Instructions:
 **Generated Dish Image**
 (Displayed from GAN model output - sample shown in UI)
 
+---
+
 ## Models Used
 
 | Task                  | Model           | Dataset    |
