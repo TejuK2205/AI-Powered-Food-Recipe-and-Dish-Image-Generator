@@ -62,6 +62,8 @@ This automation helps:
 ---
 
 ## Folder Structure
+```plaintext
+
 project/
 ├── yolov3.cfg
 ├── yolov3.weights
@@ -71,7 +73,7 @@ project/
 ├── cpu_generator.pth
 ├── generate_recipe.py
 ├── train_gan.py
-
+```
 ---
 
 ## Sample Output
@@ -104,11 +106,26 @@ Instructions:
 | Recipe Generation     | LaMini-GPT-774M | Pretrained |
 | Dish Image Generation | DCGAN           | Food-101   |
 
+---
 
 ## Future Improvements
 1. Real-time ingredient detection from webcam
 2. Use Stable Diffusion for HD food image generation
 3. Integrate voice commands using speech-to-text
+
+---
+
+## 👩‍💻 Author
+
+**Tejaswini K**  
+B.Tech Artificial Intelligence & Data Science  
+Madras Institute of Technology, Anna University  
+
+- 📧 [tejaswinik2205@gmail.com](mailto:tejaswinik2205@gmail.com)  
+- 🌐 [GitHub](https://github.com/TejuK2205)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejaswini-k-6416b0263/)
+
+---
 
 ## License
 This project is for educational purposes only. All models used are open-source under their respective licenses.
